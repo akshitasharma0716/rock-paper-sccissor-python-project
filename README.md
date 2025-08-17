@@ -5,27 +5,62 @@ The modules Used to make this script are:-
     -random
 This is a GUI based python script.
 
-Install
-Python Code On windows machine:
+🚀 How to Run This Project
+1️⃣ Clone the Repository
 
-clone Rock_Paper_Scissors repository on local machine.
+Make sure you have Git installed.
 
-
-> git clone https://github.com/geosaleh/Rock_Paper_Scissors
-
-change directory to SudokuSolver
+git clone https://github.com/akshitasharma0716/rock-paper-sccissor-python-project.git
+cd rock-paper-sccissor-python-project
 
 
-> cd Rock_Paper_Scissors/
+👉 If you don’t have Git, click the green Code button on GitHub → Download ZIP → Extract it.
 
-Now its time to execute main_gui.py
+2️⃣ Install Python
+
+You need Python 3.7+ installed.
+
+Check version:
+
+python --version
 
 
-> python main_gui.py
+or
 
-it will show following Output 
+python3 --version
 
-Download
-📎 Download Here
 
-Hope you'll install it in your computer just to try .
+👉 Download Python if not installed.
+
+3️⃣ Run the Game
+
+Windows (CMD/PowerShell):
+
+python rock_paper_scissors.py
+
+
+Linux / macOS (Terminal):
+
+python3 rock_paper_scissors.py
+
+
+(Replace rock_paper_scissors.py with the actual main file name in your repo if different.)
+
+4️⃣ Run in VS Code (Optional but Easy)
+
+Install VS Code.
+
+Install the Python extension (by Microsoft).
+
+Open the project folder in VS Code.
+
+Open rock_paper_scissors.py → Press Run ▶ button (or Ctrl+F5).
+
+✅ Example Gameplay
+Enter your choice: rock
+Computer chose: scissors
+🎉 You win!
+
+📌 Author
+
+Developed by Akshita Sharma
